@@ -1,13 +1,30 @@
 @import "~bulma/sass/utilities/initial-variables"
 
-// Config vars
-// Kalidi logo brand color: #FD461E
-$kaldi-red: #D64000
-$kaldi-red-invert: #fff
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Mono')
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+// Set your brand colors
+$purple: #8A4D76
+$pink: #FA7C91
+$brown: #757763
+$beige-light: #D0D1CD
+
+// Update Bulma's global variables
+$family-monospace: "Roboto Mono", monospace
+$family-sans-serif: "Lato", sans-serif
+$family-primary: $family-monospace
+$family-secondary: $family-sans-serif
+$primary: #21D70E
+$primary-invert: #0000cc
 $body-color: #333
+$link: #ff00ff
+$widescreen-enabled: false
+$fullhd-enabled: false
+
+// Update some of Bulma's component variables
+$control-border-width: 2px
+$input-border-color: transparent
+$input-shadow: none
 
 .navbar .navbar-menu
   box-shadow:none !important
