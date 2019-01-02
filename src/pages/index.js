@@ -17,7 +17,7 @@ export default class IndexPage extends React.Component {
             >
               <h1 className="has-text-weight-bold is-size-2">About</h1>
                   <p>
-                    I'm a graduate student at MIT and Harvard.
+                    I'm a co-founder of SEASON THREE and a graduate student at MIT and Harvard. I tweet often as @yungpanko.
                   </p>
             </div>
             <div className="content">
@@ -41,7 +41,7 @@ export default class IndexPage extends React.Component {
                     {post.excerpt}
                     <br />
                     <br />
-                    <Link className="button is-small is-primary is-outlined" to={post.fields.slug}>
+                    <Link className="button is-small" to={post.fields.slug}>
                       Keep Reading →
                     </Link>
                   </p>
