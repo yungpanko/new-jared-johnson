@@ -7,3 +7,5 @@ tags:
   - new
 ---
 It's a work in progress
+
+![](/img/fb_2019_cover_1200x628.png)
