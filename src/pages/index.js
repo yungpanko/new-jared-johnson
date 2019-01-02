@@ -12,12 +12,10 @@ export default class IndexPage extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <div
-              className="content"
-            >
-              <h1 className="has-text-weight-bold is-size-2">About</h1>
+            <div className="content">
+              <h1 className="has-text-weight-bold is-size-2">About Me</h1>
                   <p>
-                    I'm a co-founder of SEASON THREE and a graduate student at MIT and Harvard. I tweet often as @yungpanko.
+                    I'm a co-founder of <a href='https://www.season3.co'>SEASON THREE</a> and a graduate student at MIT and Harvard. I tweet often as <a href='https://www.twitter.com/yungpanko'>@yungpanko.</a>
                   </p>
             </div>
             <div className="content">
