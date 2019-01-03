@@ -12,13 +12,11 @@ tags:
 i cried in a staircase when i saw this for the first time.
 
 <div class="container is-fluid">
-<figure class="image is-16x9">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+<div class="columns is-centered">
+<div class="column is-half">
+<iframe src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<div class="container is-fluid">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </div>
 
 
@@ -26,6 +24,6 @@ i cried in a staircase when i saw this for the first time.
 
 i found this video really smart and well done. 
 
-<iframe width="1279" height="529" src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ....more to come
