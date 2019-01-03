@@ -11,18 +11,14 @@ tags:
 
 i cried in a staircase when i saw this for the first time.
 
-<div class="container is-fluid">
-<div class="columns is-centered">
-<div class="column is-half">
-<iframe src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-</div>
+<div class="video-container">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 ## 2. j. cole - kevin's heart
 
-i found this video really smart and well done. 
+i found this video really smart and well done.
 
 <iframe src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
