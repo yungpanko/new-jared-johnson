@@ -12,7 +12,13 @@ tags:
 i cried in a staircase when i saw this for the first time.
 
 <div class="container is-fluid">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="image is-16x9">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+
+<div class="container is-fluid">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
