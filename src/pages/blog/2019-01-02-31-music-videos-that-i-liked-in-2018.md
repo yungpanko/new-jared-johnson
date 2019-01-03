@@ -9,7 +9,7 @@ tags:
 ---
 ## 1. drake - god’s plan
 
-i teared up in a staircase when i saw this for the first time.
+i teared up in a staircase when i saw this for the first time. rappers give money away all the time but the narrative of giving away your labels budget adds a robin hood-esque twist. drake is the socialist hero we deserve.
 
   <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
@@ -17,7 +17,7 @@ i teared up in a staircase when i saw this for the first time.
 
 ## 2. j. cole - kevin's heart
 
-i thought this video was smart and well executed.
+i thought this video was smart and well executed. kevin hart does a lot and although i can't recall ever seeing a kevin hart movie, i think he's now underrated as a comedic figure.
 
   <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allowfullscreen></iframe>
@@ -38,7 +38,5 @@ drake had an instagram post recently with the caption, "a crime family but a fam
   <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/c8rzM_3wepE" frameborder="0" allowfullscreen></iframe>
   </div>
-
-
 
 i'm lazy so i'm posting these one by one. more to come...
