@@ -11,7 +11,7 @@ tags:
 
 i teared up in a staircase when i saw this for the first time.
 
-  <div class="full-width-image-container">
+  <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
   </div>
 
@@ -19,6 +19,6 @@ i teared up in a staircase when i saw this for the first time.
 
 i thought this video was smart and well executed.
 
-  <div class="full-width-image-container">
+  <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allowfullscreen></iframe>
   </div>
