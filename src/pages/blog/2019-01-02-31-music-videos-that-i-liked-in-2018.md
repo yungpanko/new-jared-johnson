@@ -11,12 +11,9 @@ tags:
 
 i cried in a staircase when i saw this for the first time.
 
-<section class="section">
-<div class="container">
-<h1 class="title">1. drake - god’s plan</h1>
-<iframe width="1279" height="529" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container is-fluid">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</section>
 
 
 ## 2. j. cole - kevin's heart
