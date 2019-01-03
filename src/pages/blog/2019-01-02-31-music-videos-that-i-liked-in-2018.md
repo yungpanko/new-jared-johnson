@@ -9,19 +9,16 @@ tags:
 ---
 ## 1. drake - god’s plan
 
-i cried in a staircase when i saw this for the first time.
+i teared up in a staircase when i saw this for the first time.
 
-<div class="container is-fluid">
-  <div class="video-container">
+  <div class="full-width-image-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
   </div>
-</div>
-
 
 ## 2. j. cole - kevin's heart
 
-i found this video really smart and well done.
+i thought this video was smart and well executed.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-....more to come
+  <div class="full-width-image-container">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allowfullscreen></iframe>
+  </div>
