@@ -11,8 +11,10 @@ tags:
 
 i cried in a staircase when i saw this for the first time.
 
-<div class="video-container">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
+<div class="container is-fluid">
+  <div class="video-container">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 
@@ -20,6 +22,6 @@ i cried in a staircase when i saw this for the first time.
 
 i found this video really smart and well done.
 
-<iframe src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ufynqs_COF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ....more to come
