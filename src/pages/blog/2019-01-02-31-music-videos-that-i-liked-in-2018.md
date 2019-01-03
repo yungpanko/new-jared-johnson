@@ -13,21 +13,9 @@ i cried in a staircase when i saw this for the first time.
 
 <div class="container is-fluid">
   <div class="video-container">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-
-
-<section>
-  <div class="container">
-    <div class="columns">
-      <div class="column">
-        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" allowfullscreen></iframe>
-      </div>
-    </div>
-  </div>
-</section>
-
 
 
 ## 2. j. cole - kevin's heart
