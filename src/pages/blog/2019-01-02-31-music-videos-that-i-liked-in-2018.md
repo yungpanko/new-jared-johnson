@@ -13,9 +13,11 @@ i cried in a staircase when i saw this for the first time.
 
 <div class="container is-fluid">
   <div class="video-container">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
+
+
 
 
 ## 2. j. cole - kevin's heart
