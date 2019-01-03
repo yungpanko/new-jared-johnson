@@ -13,7 +13,7 @@ i cried in a staircase when i saw this for the first time.
 
 <div class="container is-fluid">
   <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/xpVfcZ0ZcFM" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
