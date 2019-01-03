@@ -35,7 +35,7 @@ const Navbar = class extends React.Component {
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" title="Logo">
-          <img src={logo} alt="logo" style={{ width: 'height' }} />
+          <img className="rotate" src={logo} alt="logo" style={{ width: 'height' }} />
         </Link>
         <Link to="/" className="navbar-item" title="jared-johnson">
           Jared Ray Johnson
