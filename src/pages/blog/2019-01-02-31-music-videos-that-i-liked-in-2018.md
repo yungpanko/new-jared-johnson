@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 13 music videos that i liked in 2018
+title: 13 music videos i liked in 2018
 date: 2019-01-03T02:45:11.962Z
 description: 'these aren''t ranked. also, there''s more than 13. '
 tags:
