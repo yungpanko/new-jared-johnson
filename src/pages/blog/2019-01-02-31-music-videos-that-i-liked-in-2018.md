@@ -41,7 +41,7 @@ drake had an instagram post recently with the caption, "a crime family but a fam
 
 5. mura masa ft. octavian - move me
 
-mura masa's videos are always so cinematic. i don't know if i was hip to octavian when this video dropped but either way this video had me so excited to see and hear more from him.
+mura masa's videos are always so cinematic. i don't know if i was hip to octavian when this dropped but either way this video had me so excited to see and hear more from him.
 
   <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tbz6xQkewo4" frameborder="0" allowfullscreen></iframe>
