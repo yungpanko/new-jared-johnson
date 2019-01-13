@@ -55,6 +55,12 @@ the days when new AWGE DVDs release have to be the most annoying days for my ins
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iu7wJwbLkpo" frameborder="0" allowfullscreen></iframe>
   </div>
 
+## 7. teyana taylor - gonna love me (remix)
 
+teyana got so many fits off in this video. and she directed it! i know there was a thing about her album not being what she wanted it to be but i still thought it was one of the best of the year. this song was incredible even before ghostface, meth and raekwon showed up but i'm glad they did. 
+
+  <div class="full-width-video-container">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/9aAb2H2IVbA" frameborder="0" allowfullscreen></iframe>
+  </div>
 
 i'm lazy so i'm posting these one by one. more to come...
