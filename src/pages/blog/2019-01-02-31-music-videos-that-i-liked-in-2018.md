@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 13 music videos that i liked in 2018
+title: 13 music videos i liked in 2018
 date: 2019-01-03T02:45:11.962Z
 description: 'these aren''t ranked. also, there''s more than 13. '
 tags:
@@ -37,6 +37,30 @@ drake had an instagram post recently with the caption, "a crime family but a fam
 
   <div class="full-width-video-container">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/c8rzM_3wepE" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+## 5. mura masa ft. octavian - move me
+
+mura masa's videos are always so cinematic. i don't know if i was hip to octavian when this dropped but either way this video had me so excited to see and hear more from him.
+
+  <div class="full-width-video-container">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tbz6xQkewo4" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+## 6. a$ap rocky and tyler, the creator - potato salad
+
+the days when new AWGE DVDs release have to be the most annoying days for my instagram followers. i have a deep need to post all of my favorite segments from the freestyles. this rocky and tyler video though? i could hardly contain myself enough to grab my phone. the monica beat. the eiffel tower as a backdrop. the chains. JADEN SMITH! 
+
+  <div class="full-width-video-container">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iu7wJwbLkpo" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+## 7. teyana taylor - gonna love me (remix)
+
+teyana got so many fits off in this video. and she directed it! i know there was a thing about her album not being what she wanted it to be but i still thought it was one of the best of the year. this song was incredible even before ghostface, meth and raekwon showed up but i'm glad they did. 
+
+  <div class="full-width-video-container">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/9aAb2H2IVbA" frameborder="0" allowfullscreen></iframe>
   </div>
 
 i'm lazy so i'm posting these one by one. more to come...
