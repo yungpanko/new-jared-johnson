@@ -13,13 +13,13 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">About Me</h1>
-                  <p>
+              <h1 className="has-text-weight-bold is-family-secondary is-size-2">About Me</h1>
+                  <p className="is-family-primary">
                     I'm a co-founder of <a href='https://www.seasonthree.com'>SEASON THREE</a> and a graduate student at MIT and Harvard. I tweet often as <a href='https://www.twitter.com/yungpanko'>@yungpanko.</a>
                   </p>
             </div>
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Content</h1>
+              <h1 className="has-text-weight-bold is-family-secondary is-size-2">My Work</h1>
             </div>
             {posts
               .map(({ node: post }) => (
@@ -29,13 +29,13 @@ export default class IndexPage extends React.Component {
                   key={post.id}
                 >
                   <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
+                    <Link className="is-family-primary" to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
                     <small>{post.frontmatter.date}</small>
                   </p>
-                  <p>
+                  <p className="is-family-primary">
                     {post.excerpt}
                     <br />
                     <br />
