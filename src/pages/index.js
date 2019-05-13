@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -35,8 +36,18 @@ export default class IndexPage extends React.Component {
                     <span> &bull; </span>
                     <small>{post.frontmatter.date}</small>
                   </p>
+                  <div>
+                    <Link to={post.fields.slug}>
+                      <PreviewCompatibleImage imageInfo={{
+                          image: post.frontmatter.thumbnail,
+                          alt: `thumbnail for post ${
+                            post.title
+                          }`,
+                        }}/>
+                    </Link>
+                  </div>
                   <p className="is-family-primary">
-                    {post.excerpt}
+                    {post.frontmatter.description}
                     <br />
                     <br />
                     <Link className="button is-small" to={post.fields.slug}>
@@ -57,7 +68,7 @@ IndexPage.propTypes = {
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
     }),
-  }),
+  })
 }
 
 export const pageQuery = graphql`
@@ -75,7 +86,9 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
             templateKey
+            thumbnail
             date(formatString: "MMMM DD, YYYY")
           }
         }
