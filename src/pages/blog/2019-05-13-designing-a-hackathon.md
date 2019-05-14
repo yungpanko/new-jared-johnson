@@ -7,4 +7,6 @@ thumbnail: /img/hackathon_spread_amzn-4x.png
 tags:
   - hackathon
 ---
+![hackathon-logo](/img/hackathon_spread_amzn-4x.png)
+
 Text about that...
