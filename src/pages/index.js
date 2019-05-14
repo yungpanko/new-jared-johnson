@@ -45,6 +45,7 @@ export default class IndexPage extends React.Component {
                           }}/>
                       </Link>
                   <p className="is-family-primary">
+                    <br />
                     {post.frontmatter.description}
                     <br />
                     <br />
