@@ -36,7 +36,6 @@ export default class IndexPage extends React.Component {
                     <span> &bull; </span>
                     <small>{post.frontmatter.date}</small>
                   </p>
-                  <div className="container is-fluid">
                       <Link to={post.fields.slug}>
                         <PreviewCompatibleImage imageInfo={{
                             image: post.frontmatter.thumbnail,
@@ -45,7 +44,6 @@ export default class IndexPage extends React.Component {
                             }`,
                           }}/>
                       </Link>
-                  </div>
                   <p className="is-family-primary">
                     {post.frontmatter.description}
                     <br />
